@@ -1,0 +1,55 @@
+[   
+    {
+        "id" : 1,
+        "checked": false,
+        "firstName" : "Василий",
+        "lastName" : "Иванов",
+        "description" : "Бариста кафе 'У ДУБА' ",
+        "usedDevices": [
+            { "deviceId": 5, "amount" : 1 },
+            { "deviceId": 2, "amount" : 1 },
+            { "deviceId": 6, "amount" : 2 }
+        ]
+    },
+    {
+        "id" : 2,
+        "checked": false,
+        "firstName" : "Генадий",
+        "lastName" : "Гармошкин",
+        "description" : "Кассир музея 'Чебурашка' ",
+        "usedDevices": [
+            { "deviceId": 1, "amount" : 1 },
+            { "deviceId": 3, "amount" : 2 }
+        ]
+    },
+    {
+        "id" : 3,
+        "checked": false,
+        "firstName" : "Добрыня",
+        "lastName" : "Никитич",
+        "description" : "Директор частной охранной организации 'Три богатыря' ",
+        "usedDevices": [
+            { "deviceId": 3, "amount" : 1 }
+        ]
+    },
+    {
+        "id" : 4,
+        "checked": false,
+        "firstName" : "Леопольд",
+        "lastName" : "Котов",
+        "description" : "Администратор клуба анонимных алкоголиков 'Дружба' ",
+        "usedDevices": [
+            { "deviceId": 4, "amount" : 2 }
+        ]
+    },
+    {
+        "id" : 5,
+        "checked": false,
+        "firstName" : "Ирогь",
+        "lastName" : "Печкин",
+        "description" : "Почтальен логистической компании 'Простоквашино' ",
+        "usedDevices": [
+            { "deviceId": 3, "amount" : 1 }
+        ]
+    }
+]
