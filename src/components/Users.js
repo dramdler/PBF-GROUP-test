@@ -1,5 +1,3 @@
-
-
 function Users(props) {
     const elements = props.usersDb.map((user) => {
         return (
